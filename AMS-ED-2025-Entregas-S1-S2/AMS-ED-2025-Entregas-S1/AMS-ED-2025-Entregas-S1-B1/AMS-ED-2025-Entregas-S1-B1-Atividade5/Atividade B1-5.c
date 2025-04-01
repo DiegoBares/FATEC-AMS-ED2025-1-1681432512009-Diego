@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------------*/
 /*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
-/*                         Id da Atividade: Atividade B1-5                          */
+/*                         Id da Atividade: AMS-ED-2025-Entregas-S1-B1-Atividade5   */
 /*             Objetivo: Transforma Lista Ligada em Pilha                           */
 /*                                                                                  */
 /*                                  Autor: Diego Correia Bares                      */
